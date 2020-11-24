@@ -14,6 +14,8 @@ Daniel Luzardo
   - Rule Design & Implementation
   - Camera Movement
   - Grid implementation
+  
+  
 Joel Anaghara
   - Road & Building Implementation
   - Scene Change
