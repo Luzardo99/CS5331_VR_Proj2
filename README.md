@@ -1,4 +1,3 @@
-# CS5331_VR_Proj2
 
 # Urban Planning VR Game
 
