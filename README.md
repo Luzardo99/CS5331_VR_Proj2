@@ -9,6 +9,12 @@ Demo: https://youtu.be/D6ts7y-ZUHA
 
 
 # Group Distribution
+Joel Anaghara
+  - Road & Building Implementation
+  - Scene Change
+  - Menu
+
+
 
 Daniel Luzardo
   - Rule Design & Implementation
@@ -16,7 +22,11 @@ Daniel Luzardo
   - Grid implementation
   
   
-Joel Anaghara
-  - Road & Building Implementation
-  - Scene Change
-  - Menu
+
+
+
+The rest was done together
+
+# Asset Source
+
+http://quaternius.com/
