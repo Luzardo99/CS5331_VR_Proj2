@@ -9,11 +9,17 @@ Demo: https://youtu.be/D6ts7y-ZUHA
 
 # Game Scoring
 
+
   -Player starts at 100
+  
   -Point are reduced at the end
+  
   -Based on efficiency of city so no unneeded infrastructure
+  
   -Houses should be together and no house should be separated
+  
   -Businesses should be within reasonable distance to group of homes
+  
   -No structure should have be put without a road to access it
 
 
